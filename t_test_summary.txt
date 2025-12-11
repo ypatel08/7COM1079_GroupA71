@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  Revenue by Department
+t = 20.165, df = 15335, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group Eletrônicos and group Vestuário is not equal to 0
+95 percent confidence interval:
+ 1116.113 1356.454
+sample estimates:
+mean in group Eletrônicos   mean in group Vestuário 
+                 5087.046                  3850.762 
+

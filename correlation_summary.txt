@@ -1,0 +1,12 @@
+
+	Pearson's product-moment correlation
+
+data:  dept_data$Revenue and dept_data$Sales.Quantity
+t = 529.34, df = 41627, p-value < 2.2e-16
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ 0.9318341 0.9343193
+sample estimates:
+      cor 
+0.9330878 
+

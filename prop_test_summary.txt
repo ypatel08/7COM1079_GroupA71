@@ -1,0 +1,12 @@
+
+	2-sample test for equality of proportions without continuity correction
+
+data:  successes out of totals
+X-squared = 0.13614, df = 1, p-value = 0.7122
+alternative hypothesis: two.sided
+95 percent confidence interval:
+ -0.01295552  0.01896495
+sample estimates:
+   prop 1    prop 2 
+0.4711319 0.4681272 
+
