@@ -1,0 +1,10 @@
+﻿Final Review and R-Script Verification
+
+
+As part of my contribution to the group project, I conducted a final review of the repository to ensure that all required files were complete, consistent, and ready for submission.
+
+
+Specifically, I checked the R scripts to confirm that they ran correctly, followed the intended workflow, and produced the expected outputs. This included reviewing the code structure, verifying that required libraries were properly loaded, and ensuring that scripts were logically organized and reproducible.
+
+
+In addition, I performed a final check-up on all project files in the repository, including data files, documentation, and the final report. I verified that there were no missing files, naming inconsistencies, or formatting issues, and that all components aligned with the project requirements.
